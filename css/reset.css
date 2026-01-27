@@ -33,6 +33,8 @@ ol[role='list'] {
 ul,
 ol {
   list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
 /* Set core root defaults */
