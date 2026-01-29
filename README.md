@@ -7,7 +7,7 @@ Projeto de um site de e-commerce focado em tênis e sneakers, desenvolvido apena
 
 ## 🖥️ Demonstração
 
-Acesse pelo link do GitHub Pages: 
+Acesse pelo link do GitHub Pages: https://kalyel.github.io/projeto-e-commerce-HTML-CSS/ 
 
 ## 📁 Estrutura de Pastas
 
